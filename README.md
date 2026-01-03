@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm a Web Developer 👋
 
-<!--
-**DTank2003/DTank2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend / Full-Stack Developer specializing in React and modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React, JavaScript
+- HTML, CSS, Tailwind CSS
+- Redux
+- Node.js, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Task Management / Kanban Board
+- Dashboards & Analytics
+- API-based Web Applications
+
+I enjoy building clean, scalable, and user-friendly applications.
