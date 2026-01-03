@@ -4,7 +4,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhyey-tank/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dhyey.tank098@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://github.com/DTank2003/My-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://dhyeyytank.vercel.app/)
 
 </div>
 
@@ -14,9 +14,8 @@ Full-Stack Developer passionate about building scalable applications with modern
 
 - 🔭 Currently working on full-stack modules with real-time capabilities using WebSockets
 - 🌱 Exploring advanced system design patterns and cloud architecture
-- 💼 Previously interned at **Reliance Industries Limited**, building REST APIs for asset management
-- 🏸 National-level Badminton player - Runner-up at CBSE Inter-Zone Tournament
-- 📍 Based in Ahmedabad, Gujarat, India
+- 😄   My standout strength lies in my unwavering adaptability—a dynamic force that transforms challenges into opportunities. Coupled with a relentless passion for continuous learning, I thrive in pushing boundaries, embracing innovation, and consistently delivering results that exceed expectations
+- 🎁 Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
 
 ## 💻 Tech Stack
 
@@ -103,37 +102,13 @@ Messaging application with versatile features built on MERN stack.
 
 </div>
 
-## 💼 Professional Experience
-
-**Associate Software Engineer** @ DRC Systems Limited *(Jan 2025 - Present)*
-- Developed 6+ full-stack modules for project management platform (500+ users)
-- Implemented REST APIs and WebSocket endpoints, reducing data sync delays by 30%
-- Optimized bundle size through code splitting and lazy loading
-
-**Summer Software Intern** @ Reliance Industries Limited *(May 2023 - June 2023)*
-- Built REST API endpoints, increasing operational efficiency by 25%
-- Designed and optimized MySQL database schemas for cross-system integration
-
-## 🎓 Education
-
-**B.Tech in Computer Engineering** - Dharmsinh Desai University *(2021-2025)*
-- CGPA: 8.22/10
-- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Technologies
-
-## 🏆 Achievements
-
-- 🥈 **Runner-up** at CBSE Inter-Zone Badminton Tournament (National Level)
-- 📊 **96.4%** in Higher Secondary Education
-- 🎯 **96.6%** in Secondary Education
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on innovative projects or discussing tech. Feel free to reach out!
 
 - 📧 Email: dhyey.tank098@gmail.com
 - 💼 LinkedIn: [Dhyey Tank](https://www.linkedin.com/in/dhyey-tank/)
-- 🌐 Portfolio: [View Portfolio](https://github.com/DTank2003/My-Portfolio)
-- 📍 Location: Ahmedabad, Gujarat, India
+- 🌐 Portfolio: [View Portfolio]([https://dhyeyytank.vercel.app/])
 
 ---
 
